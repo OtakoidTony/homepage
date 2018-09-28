@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+# Site Settings
+locale                   : "ko-KR"
+title                    : "MathPy"
+title_separator          : "-"
+name                     : "OtakoidTony"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
