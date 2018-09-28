@@ -1,4 +1,3 @@
-[Image](https://raw.githubusercontent.com/OtakoidTony/homepage/master/42537ffcdee282d307071933704c5d61.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/OtakoidTony/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
