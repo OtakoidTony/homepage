@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-# Site Settings
 locale                   : "ko-KR"
 title                    : "MathPy"
 title_separator          : "-"
