@@ -1,46 +1,11 @@
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-## Header 2
+## 필요한 패키지
 ```markdown
 from math import factorial
 from decimal import Decimal
 ```
 
-## Header 2
-```markdown
-def eN(p):
-    temp=0
-    out=0
-    while temp<=p:
-        out=out+1/factorial(temp)
-        print(str(format(Decimal.from_float(out), '.1000')))
-        temp=temp+1
-    print(str(format(Decimal.from_float(out), '.1000')))
-    return(out)
-```
-
-## Header 2
+## 테일러급수를 이용하여 지수함수를 전개.
 ```markdown
 def exp(p):
     temp=0
@@ -55,10 +20,3 @@ def exp(p):
 ![Image](https://raw.githubusercontent.com/OtakoidTony/homepage/master/42537ffcdee282d307071933704c5d61.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OtakoidTony/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
