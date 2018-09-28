@@ -17,6 +17,4 @@ def exp(p):
     print(str(format(Decimal.from_float(out), '.1000')))
 ```
 
-![Image](https://raw.githubusercontent.com/OtakoidTony/homepage/master/42537ffcdee282d307071933704c5d61.jpg)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
