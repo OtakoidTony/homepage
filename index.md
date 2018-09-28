@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/OtakoidTony/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -25,13 +21,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+## Header 2
 ```markdown
 from math import factorial
 from decimal import Decimal
+```
 
-print(factorial(10))
-
+## Header 2
+```markdown
 def eN(p):
     temp=0
     out=0
@@ -41,7 +38,10 @@ def eN(p):
         temp=temp+1
     print(str(format(Decimal.from_float(out), '.1000')))
     return(out)
+```
 
+## Header 2
+```markdown
 def exp(p):
     temp=0
     out=0
