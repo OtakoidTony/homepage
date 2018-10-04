@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+[콜라츠 알고리즘](./collatz.html).
 
 ## 필요한 패키지
 ```markdown
