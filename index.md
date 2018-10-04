@@ -2,7 +2,7 @@
 layout: default
 ---
 
-MathPy  
+[Link to another page](./another-page.html).
 
 ## 필요한 패키지
 ```markdown
