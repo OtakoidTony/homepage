@@ -4,7 +4,7 @@ layout: default
 
 ## 콜라츠 알고리즘
 
-```C#
+```#
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -557,4 +557,5 @@ namespace WindowsFormsApp1
     }
 }
 ```
+
 [back](./)
