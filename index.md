@@ -7,7 +7,7 @@ layout: default
 
 
 ## 필요한 패키지
-```markdown
+```python
 from math import factorial
 from decimal import Decimal
 ```
