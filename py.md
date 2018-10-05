@@ -31,9 +31,6 @@ def normal():
     ax.legend()
     plt.show()
 
-
-
-
 def sgn(x):
     x = int(x)
     if x < 0:
