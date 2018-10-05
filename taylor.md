@@ -18,4 +18,8 @@ def exp(p):
     print(str(format(Decimal.from_float(out), '.1000')))
 ```
 
+```
+html header: <script type="text/javascript"  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> 
 
+\\({e}^{i\pi}+1=0\\)
+```
