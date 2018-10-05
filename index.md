@@ -13,7 +13,7 @@ from decimal import Decimal
 ```
 
 ## 테일러급수를 이용해 지수함수를 전개.
-```markdown
+```python
 def exp(p):
     temp=0
     out=0
