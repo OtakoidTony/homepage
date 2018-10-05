@@ -1,3 +1,7 @@
+---
+layout: default
+---
+  
 ```python
 import matplotlib as mpl
 from mpl_toolkits.mplot3d import Axes3D
