@@ -4,23 +4,8 @@ layout: default
 
 [콜라츠 알고리즘](./collatz.html).  
 [궤도 시각화](./py.html).
+[테일러 급수](./taylor.html).
 
-## 필요한 패키지
-```python
-from math import factorial
-from decimal import Decimal
-```
 
-## 테일러급수를 이용해 지수함수를 전개.
-```python
-def exp(p):
-    temp=0
-    out=0
-    while temp<=100:
-        out=out+(p**temp)/factorial(temp)
-        print(str(format(Decimal.from_float(out), '.1000')))
-        temp=temp+1
-    print(str(format(Decimal.from_float(out), '.1000')))
-```
 
 
