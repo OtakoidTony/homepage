@@ -4,7 +4,7 @@ layout: default
 
 ## 콜라츠 알고리즘
 
-```#
+```cs
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
