@@ -4,6 +4,8 @@ layout: default
 
 ## 테일러 급수
 
+$ T_f(x)=\sum_{n=0}^\infty \frac{f^{(n)}(a)}{n!} \, (x-a)^n=f(a) + f'(a)(x-a) + \frac12f''(a)(x-a)^2 + \frac16f'''(a)(x-a)^3 + \cdots $
+
 ```python
 from math import factorial
 from decimal import Decimal
@@ -24,6 +26,5 @@ html header: <script type="text/javascript"  src="http://cdn.mathjax.org/mathjax
 \\({e}^{i\pi}+1=0\\)
 ```
 
-$$ x = \frac{-b \pm \sqrt{b^2-4ac}}{2a} $$
 
-$ T_f(x)=\sum_{n=0}^\infty \frac{f^{(n)}(a)}{n!} \, (x-a)^n=f(a) + f'(a)(x-a) + \frac12f''(a)(x-a)^2 + \frac16f'''(a)(x-a)^3 + \cdots $
+
