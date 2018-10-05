@@ -1,11 +1,13 @@
-## 필요한 패키지
+---
+layout: default
+---
+
+## 테일러 급수
+
 ```python
 from math import factorial
 from decimal import Decimal
-```
 
-## 테일러급수를 이용해 지수함수를 전개.
-```python
 def exp(p):
     temp=0
     out=0
