@@ -2,9 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
-
-_yay_
+## 콜라츠 알고리즘
 
 ```C#
 ﻿using System;
