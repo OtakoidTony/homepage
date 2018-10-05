@@ -4,7 +4,7 @@ layout: default
 
 ## 테일러 급수
 
-$ T_f(x)=\sum_{n=0}^\infty \frac{f^{(n)}(a)}{n!} \, (x-a)^n=f(a) + f'(a)(x-a) + \frac12f' '(a)(x-a)^2 + \cdots $
+$ T_f(x)=\sum_{n=0}^\infty \frac{f^{(n)}(a)}{n!} \, (x-a)^n=f(a) + f'(a)(x-a) + \frac12f'' (a)(x-a)^2 + \cdots $
 
 ```python
 from math import factorial
