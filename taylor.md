@@ -31,4 +31,5 @@ html header: <script type="text/javascript"  src="http://cdn.mathjax.org/mathjax
         F_y}{\partial x} - \frac{\partial F_x}{\partial y} \right) \mathbf{k} \]
 
 $$ x = \frac{-b \pm \sqrt{b^2-4ac}}{2a} $$
+
 $x^2$
